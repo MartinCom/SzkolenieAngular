@@ -5,7 +5,7 @@ import { Component } from '@angular/core';
   template: `
   <div>
     <h1>
-      {{title}}
+      <app-product></app-product>
     </h1>
   </div>
   `
